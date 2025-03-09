@@ -21,7 +21,7 @@ In this process, using a seaborn heatmap chart, the correlation between Area har
 Across Crops::This process focuses on comparing the Yield of different crops (from the Item column) to identify high-yield and low-yield crops using a bar chart.\
 Across Regions: This process focuses on comparing Production across different regions to identify highly productive regions using a bar chart.\
 Productivity Analysis: This analysis focuses on examining Yield variations to identify high-yield crops and productive regions.
-###Outliers detection
+### Outliers detection
 In this process, outliers present in the Area Harvested, Yield, and Production columns were filtered and stored in a variable. all the values are a part of the whole process because these
 values are correlated between each column.
 ## Machine Learning
