@@ -18,7 +18,7 @@ Yearly Trends & Growth Analysis: This process involves analyzing the Year column
 ### Input-Output Relationships
 In this process, using a seaborn heatmap chart, the correlation between Area harvested, Yield, and Production has been analyzed.
 ### Comparative Analysis
-Across Crops::This process focuses on comparing the Yield of different crops (from the Item column) to identify high-yield and low-yield crops using a bar chart.\
+Across Crops: This process focuses on comparing the Yield of different crops (from the Item column) to identify high-yield and low-yield crops using a bar chart.\
 Across Regions: This process focuses on comparing Production across different regions to identify highly productive regions using a bar chart.\
 Productivity Analysis: This analysis focuses on examining Yield variations to identify high-yield crops and productive regions.
 ### Outliers detection
